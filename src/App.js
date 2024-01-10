@@ -8,7 +8,6 @@ import Skills from "./components/Skills";
 import Projects from "./components/Projects";
 import Certifications from "./components/Certifications";
 import ExtraCurr from "./components/ExtraCurr";
-import TempComponent from "./components/Tempcomponent";
 
 function App() {
   return (
